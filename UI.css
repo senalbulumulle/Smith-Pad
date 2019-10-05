@@ -6,3 +6,58 @@
  |____/ |_| |_| |_||_| \__||_| |_|    |_|    \__,_| \__,_| UI 
   A FOIL UI Based Framework for the Smith Pad                            */
     
+  .button{
+    background-color:black;
+     padding:16px 43px;
+     border:none;
+     color:white;
+     font-size:18px;
+
+  }
+  /* Rotates the button */
+
+  .button.semi-rotate{
+      /* Leave it blank */
+  }
+  .button.rotate-360-deg{
+      /* Leave it blank*/
+  }
+  .button.rotate-minus-360-deg{
+
+  }
+
+ 
+  
+  button:hover{
+      background-color:rgb(1, 179, 1);
+      color:black;
+      transition-duration:0.2s;
+
+
+  }
+  button.semi-rotate:active{
+      transition-duration:0.4s;
+      background-color:gray;
+      color:white;
+      font-size:20px;
+      transform:rotate(12deg);
+      padding:42px 52px;
+
+  }
+  button.rotate-right-360-deg:active{
+      transition-duration:0.4s;
+      background-color:gray;
+      color:white;
+      transform:rotate(360deg);
+      font-size:20px;
+      padding:42px 52px;
+
+  }
+button.rotate-left-360-deg:active{
+  transition-duration:0.4s;
+  background-color:gray;
+  color:white;
+   font-size:20px;
+  transform:rotate(-360deg);
+  padding:42px 52px;
+}
