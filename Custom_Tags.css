@@ -1,0 +1,266 @@
+
+/* 
+
+
+
+  _____ ___ ___ _       _   _ ___
+ |  ___/ _ \_ _| |     | | | |_ _|
+ | |_ | | | | || |     | | | || |
+ |   || |_| | || |___  | |_| || |
+ |_|   \___/___|_____|  \___/|___   HEATNOPL (HEAT-NOPL)
+
+HTML Easy Attribute taggings Namings Override Programming Language Framework based on CSS
+This experiment overrides the functionally of the limited html tags like <p> <h1> etc.... with root.css
+
+ The HTML Tagging has been modified to the  FOIL HTML Tagging Framework to make the code much cleaner and readable 
+ and more efficient for network traffic to prevent global server crashes.   -->
+
+<!-- 2019 Senal Bulumulle -->
+
+Created and Maintained by Senal Bulumulle 
+
+<<<AD>>>>>
+<<<Past time of HTML>>>
+
+
+ YOU SEE THIS, THAT IS BAD. REGULAR HTML TAGS NAMINGS ARE LIMITED. NOT ANYMORE, WITH FOIL TAG OVERRIDE.CSS
+
+
+ *************************************************************************
+<!-- Before using FOIL Tag Override.css -->
+<html> 
+<head> 
+<title> </title>
+<body> 
+<p> Hello </p> 
+<ul> </ul> 
+</body> 
+</head> 
+</html>
+
+**************************************************************************
+
+
+
+*************************************************************************
+<!-- Result when using FOIL Tag Override.css -->
+<html> 
+<head> </head>
+<title></title
+<body>
+
+<fontsize10> Hello </fontsize10> = makes the font size smaller. 
+<div class="space"></div>
+
+ </body>
+ </html>
+
+ NOW THAT'S WHAT I CALL , "REAL HTML " GET IT :-)
+**************************************************************************
+*/
+
+
+/* FONT TAGS */
+/* FONT SIZE  TAGS SECTION */
+
+fontsize10{
+	font-size:10;   
+}
+
+fontsize20{
+	font-size:20;
+}
+
+fontsize30{
+	font-size:30;
+}
+
+fontsize40{
+	font-size:40;
+	
+}
+
+fontsize50{
+	font-size:50;
+}
+
+
+fontsize60{
+	font-size:60;
+}
+
+fontsize70{
+	font-size:70;
+}
+
+fontsize80{
+	font-size:80;
+}
+
+fontsize90{
+	font-size:90;
+}
+
+
+fontsize100{
+	font-size:100;
+}
+
+
+}
+
+fontsize200{
+	font-size:300;
+}
+
+fontsize300{
+	font-size:300;
+}
+fontsize400{
+	font-size:400;
+}
+
+fontsize500{
+	font-size:500;
+}
+
+fontsize600{
+	font-size:600;
+}
+
+fontsize700{
+	font-size:700;
+}
+
+fontsize800{
+	font-size:800;
+}
+
+fontsize900{
+	font-size:900;
+}
+
+fontsize1000{
+	font-size:1000;
+}
+
+/***************************************************
+                  FONT COLOR OVERRIDE
+                  <fontcolorRED> </fontcolorRED>
+****************************************************/
+
+
+fontcolorRED{
+	color: red;
+}
+
+fontcolorORANGE{
+	font-color:orange;
+}
+
+fontcolorYELLOW{
+	font-color:yellow;
+}
+
+fontcolorGREEN{
+	font-color:green;
+}
+fontcolorBLUE{
+	
+	font-color:blue;
+}
+fontcolorYELLOW{
+	font-color:yellow;
+}
+
+fontcolorWHITE{
+	font-color:white;
+	font-feature-settings: "psts";
+}
+
+/***************************************************
+                Font Types
+****************************************************/
+fonttype1{
+	font-variant-east-asian: ruby;
+
+}
+
+
+/***************************************************
+                  Funny FONTS
+****************************************************/
+.funnyfontSPARKLE{
+	/* Hack*/
+}
+
+
+/***************************************************
+                     Bullet Points
+ PRACTICE TIPS                     
+ <div class="space"></div>
+ <dot> </dot> 
+ <fontsize> Some List... </fontsize>
+
+ or use
+ <dot id ="dot"> Some Text</dot>
+****************************************************/
+
+.dot{
+height: 25px;
+width: 15px;
+background-color: orange;
+border-radius: 50%;
+display: inline-block;
+
+
+}
+/* Dot setting*/
+dot{
+height: 15px;
+width: 15px;
+background-color: black;
+border-radius: 5%;
+display: inline-block;
+}
+
+
+.getbox{
+/* Blank */
+
+}
+
+
+
+
+/*****************************************************/
+/* Practice Tips 
+
+<getbox id="getbox">Hello World</getbox>
+*/
+/******************************************************/
+getbox{
+ background: #ff9999;
+  padding:20px;
+   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.47),0 40px 90px 0 rgba(0,0,0,0.38);
+
+}
+
+getbox2{
+	background: orange;
+	padding: 20px;
+	box-shadow: - 12px 16px 0 rgba(0,0,0,0.47),0 40px 90px 0 rgba(0,0,0.38);
+
+}
+getbox3{
+		background: orange;
+		padding: 20px;
+		box-shadow: - 12px 16px 0 rgba(0, 0, 0, 0.47),0 40px 90px 0 rgba(0, 0, 0.38);
+
+}
+/***************************************************
+             Underline Modification
+****************************************************/
+underline{
+	text-decoration: underline;
+}
