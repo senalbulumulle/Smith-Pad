@@ -1,2 +1,97 @@
-<link rel="stylesheet" href="./UI.css" type="text/css"> 
-<button class="normalbutton">Hello Students</button>
+<link rel="stylesheet" href="./UI.css" type="text/css">
+<link rel="stylesheet" href="./Custom_Tags.css" type="text/css">
+<link rel="stylesheet" href="./position-text.css" type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+< <META HTTP-EQUIV="refresh" CONTENT="1">
+
+    <!-- Layout-->
+    <!-- First the Layout takes place-->
+    <div class="layout indicator-side-round">
+
+        <h1> Smith Pad </h1>
+        <div class="right">
+            <div id="clockbox"></div>
+
+            <script type="text/javascript">
+                var tday = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+                var tmonth = ["January", "February", "March", "April", "May", "June", "July", "August", "September",
+                    "October",
+                    "November", "December"
+                ];
+
+                function GetClock() {
+                    var d = new Date();
+                    var nday = d.getDay(),
+                        nmonth = d.getMonth(),
+                        ndate = d.getDate(),
+                        nyear = d.getFullYear();
+                    var nhour = d.getHours(),
+                        nmin = d.getMinutes(),
+                        ap;
+                    if (nhour == 0) {
+                        ap = " AM";
+                        nhour = 12;
+                    } else if (nhour < 12) {
+                        ap = " AM";
+                    } else if (nhour == 12) {
+                        ap = " PM";
+                    } else if (nhour > 12) {
+                        ap = " PM";
+                        nhour -= 12;
+                    }
+
+                    if (nmin <= 9) nmin = "0" + nmin;
+
+                    var clocktext = "" + tday[nday] + ", " + tmonth[nmonth] + " " + ndate + ", " + nyear + " " + nhour +
+                        ":" +
+                        nmin + ap + "";
+                    document.getElementById('clockbox').innerHTML = clocktext;
+                }
+
+                GetClock();
+                setInterval(GetClock, 1000);
+            </script>
+
+        </div>
+
+
+    </div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    <div class="space"></div>
+    
+
+    <div class="layout side-round">
+        <fontsize70>
+
+
+
+        </fontsize70>
+        <fontsize60>Menu</fontsize60>
+
+        <div class="space"></div>
+        <div class="space"></div>
+        <a href="schedule-display.html" class="button">Schedule Display</a>
+
+
+
+
+    </div>
