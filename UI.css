@@ -34,6 +34,32 @@ body{
      
      
   }
+
+
+
+  /* Without Animation  */
+  .layout-indicator-side-round-no-animate{
+ padding:1px 1em;
+ border-radius:10px;
+  }
+  .layout-side-round{
+       border-radius:10px;
+       height:10vh;
+  }
+  .layout-indicator{
+            height:10vh;
+  }
+  .layout-indicator-side-round{
+      padding:1px 1em;
+      border-radius:10px;
+  }
+
+
+
+
+
+
+  /* With Animations */
   .layout.side-round{  
       border-radius:10px;
       height:10vh;
@@ -48,6 +74,7 @@ body{
       padding:1px 1em;
       border-radius:10px;
   }
+
   
   .button{
     background-color:black;
@@ -57,20 +84,35 @@ body{
      font-size:18px;
      text-decoration:none;
 
-
-
-
-     
-
+  }
+  .button.is-red{
+      background-color:red;
+      color:white;
+  }
+  .button.is-yellow{
+    background-color:yellow;
+    color:white;
+  }
+  .button.is-orange{
+    background-color:rgb(230, 84, 0);
+    color:white;
+  }
+  .button.is-pink{
+      background-color:rgb(187, 0, 146);
+      color:white;
   }
   .button.small{
       padding:4px 2px;
       
   }
+
   /* Rotates the button */
 
   .button.semi-rotate{
       /* Leave it blank */
+  }
+  .button.semi-rotate-red{
+      background-color:red;
   }
   .button.rotate-360-deg{
       /* Leave it blank*/
@@ -96,6 +138,14 @@ body{
       transform:rotate(12deg);
       padding:42px 52px;
 
+  }
+  button.semi-rotate-red:active{
+       transition-duration:0.4s;
+       background-color:red;
+       color:white;
+       font-size:20px;
+       transform:rotate(12deg);
+       padding:42px 52px;
   }
   button.rotate-right-360-deg:active{
       transition-duration:0.4s;
