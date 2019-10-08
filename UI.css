@@ -7,12 +7,25 @@
   A FOIL UI Based Framework for the Smith Pad                            */
 body{
     font-family:Arial, Helvetica, sans-serif;
+     animation:foil;
+    animation-duration:9s;
 
 } 
+@keyframes foil {
+    from {
+        width: 19em;
+        height: 19em;
+    }
+
+    to {
+        width: 300em;
+        height: 400em;
+    }
+}
 
 
   .layout{
-      background-color:gray;
+      background-color:rgb(95, 95, 95);
       color:white;
       padding: 10em 1em;
       position:relative;
