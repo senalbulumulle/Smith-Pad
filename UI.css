@@ -37,26 +37,7 @@ body{
 
 
 
-  /* Without Animation  */
-  .layout-indicator-side-round-no-animate{
- padding:1px 1em;
- border-radius:10px;
-  }
-  .layout-side-round{
-       border-radius:10px;
-       height:10vh;
-  }
-  .layout-indicator{
-            height:10vh;
-  }
-  .layout-indicator-side-round{
-      padding:1px 1em;
-      border-radius:10px;
-  }
-
-
-
-
+  
 
 
   /* With Animations */
