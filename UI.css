@@ -21,6 +21,20 @@ body{
     }
 }
 
+@keyframes foil-buttons-effect{
+    from{
+    margin-top:100%;
+     margin-left:100%;
+     width:300%;
+
+
+    }
+    
+    to{
+     padding-bottom:auto;
+    }
+}
+
 
   .layout{
       background-color:rgb(95, 95, 95);
@@ -72,8 +86,13 @@ body{
      color:white;
      font-size:18px;
      text-decoration:none;
+     animation-name:foil-buttons-effect;
+     animation-duration:2s;
+
 
   }
+
+
   .button.is-red{
       background-color:red;
       color:white;
