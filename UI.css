@@ -91,11 +91,11 @@ body{
 
 
   }
-.button-no-animate-small{
-padding:4px 2px;
-background-color:black;
-text-decoration: none;
-color:white;
+.button-no-animate-small {
+    padding: 4px 2px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
 }
 
   .button.is-red{
