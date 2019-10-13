@@ -1,0 +1,96 @@
+/*
+Layouts.css 
+
+
+
+
+*/
+
+
+/* THIS ONE YOU CAN EDIT. */
+.layout1 {
+    /* change background color or a image url for the layout.
+
+    Note: for the next paragraph, you may need to make a another call to the layout class */
+    background-color: transparent;
+
+    color: white;
+    padding: 10em 1em;
+    position: relative;
+    z-index: 2;
+}
+
+.q1 {
+    /* change background color or a image url for the layout.
+
+    Note: for the next paragraph, you may need to make a another call to the layout class */
+    background-color: black;
+
+    color: black;
+    padding: 30em 1em;
+    position: relative;
+    z-index: 2;
+}
+
+.l .layout2 {
+    /* change background color or a image url for the layout.
+
+    Note: for the next paragraph, you may need to make a another call to the layout class */
+    background-color: black;
+
+    padding: 10em 1em;
+    position: relative;
+    z-index: 2;
+}
+
+.layout3 {
+    /* change background color or a image url for the layout.
+
+    Note: for the next paragraph, you may need to make a another call to the layout class */
+    background-color: black;
+
+    color: white;
+    padding: 10em 1em;
+    position: relative;
+    z-index: 2;
+    text-shadow: ;
+
+}
+
+.layout4 {
+    /* change background color or a image url for the layout.
+
+    Note: for the next paragraph, you may need to make a another call to the layout class */
+    color: black;
+    background-color: black;
+
+
+    padding: 10em 1em;
+    position: relative;
+    z-index: 2;
+
+}
+
+
+/* Small Layouts */
+.small_layout0 {
+    background-color: black;
+
+    color: white;
+    padding: 3em 1em;
+    position: relative;
+    z-index: 2;
+    text-shadow: ;
+
+}
+
+.indicator {
+    background-color: black;
+
+    color: white;
+    padding: 3em 1em;
+    position: relative;
+    z-index: 2;
+    text-shadow: ;
+
+}
