@@ -87,7 +87,7 @@ body{
      text-decoration:none;
      animation-name:foil-buttons-effect;
      animation-duration:2s;
-
+     margin:20px;
 
   }
 .button-no-animate-small {
