@@ -139,7 +139,7 @@ body{
 /* Default Animated Button Substitutes */
 
   .button.is-red{
-      background-color:red;
+      background-color:red;f
       color:white;
   }
   .button.is-yellow{
@@ -217,3 +217,25 @@ button.rotate-left-360-deg:active{
   transform:rotate(-360deg);
   padding:42px 52px;
 }
+
+
+/* Table */
+  table,
+  td {
+      width: 82em;
+      height: 32em;
+
+  }
+
+  th {
+      font-size: 30px;
+  }
+
+  thead {
+      border-radius: 40px;
+  }
+
+  tfoot {
+      background-color: #333;
+      color: #fff;
+  }
