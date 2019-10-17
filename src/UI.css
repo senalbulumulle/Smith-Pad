@@ -22,10 +22,9 @@ body{
 }
 
 @keyframes foil-buttons-effect{
-    from{
-    margin-top:100%;
-     margin-left:50%;
-
+    from {
+        
+        font-size:500%;
 
     }
 }
