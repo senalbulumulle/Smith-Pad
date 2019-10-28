@@ -185,6 +185,47 @@ Contents of Subclasses {
 
   
 
+/********************************************             
+  Change Color to prevent Screen Burn-IN   
+ /*******************************************/
+
+.layout.animate-sunset-theme{
+/*background: linear-gradient(190deg, #341801, #9f3b02, #963600, #bf4500, #e15100, #000000, #000000, #000000);*/
+background: linear-gradient(190deg, #030000, #160200, #290300, #3d0400, #500600, #640700, #770900, #8b0a00, #9f0c00, #b20d00);
+background-size: 1600% 1600%;
+
+-webkit-animation: Sunset-Theme 17s ease infinite;
+-moz-animation: Sunset-Theme 17s ease infinite;
+animation: Sunset-Theme 17s ease infinite;
+}
+
+
+
+
+/****************************************
+
+        Keyframes List 
+****************************************/
+@-webkit-keyframes Sunset-Theme {
+    0%{background-position:94% 0%}
+    50%{background-position:7% 100%}
+    100%{background-position:94% 0%}
+}
+@-moz-keyframes Sunset-Theme {
+    0%{background-position:94% 0%}
+    50%{background-position:7% 100%}
+    100%{background-position:94% 0%}
+}
+@keyframes Sunset-Theme { 
+    0%{background-position:94% 0%}
+    50%{background-position:7% 100%}
+    100%{background-position:94% 0%}
+}
+
+
+
+
+
   
   .button{
     background-color:black;
@@ -245,7 +286,7 @@ Contents of Subclasses {
 /* Default Animated Button Substitutes */
 
   .button.is-red{
-      background-color:red;f
+      background-color:red;
       color:white;
   }
   .button.is-yellow{
