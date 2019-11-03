@@ -7,7 +7,6 @@
   A FOIL UI Based Framework for the Smith Pad                            */
 body{
     font-family:Arial, Helvetica, sans-serif;
-       height: 300em;
        margin: 0;
        overflow-y: auto;
        overflow-x: hidden;
@@ -53,16 +52,7 @@ fontcolorBLACK{color:black;}
 /*********************************************/
 
 /*********************************************/
-html {
-    box-sizing:border-box;
-    overflow: hidden
-}
 
-*,
-*::before,
-*::after {
-    box-sizing: inherit
-}
 
 
 
