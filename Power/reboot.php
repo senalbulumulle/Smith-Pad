@@ -1,5 +1,5 @@
 <?php
-exec("reboot");
+exec("sudo reboot");
 ?>
 
 <link rel="stylesheet" href="../src/Custom_Tags.css" type="text/css">

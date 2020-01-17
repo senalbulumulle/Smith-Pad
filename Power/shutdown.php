@@ -1,7 +1,6 @@
-<!--
 <?php
-exec("shutdown");
-?>-->
+exec("sudo shutdown");
+?>
 
 <link rel="stylesheet" href="../src/Custom_Tags.css" type="text/css">
 <link rel="stylesheet" href="../src/position-text.css" type="text/css">
