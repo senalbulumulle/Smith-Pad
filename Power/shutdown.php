@@ -1,5 +1,5 @@
 <?php
-exec("sudo shutdown");
+exec("sudo halt");
 ?>
 
 <link rel="stylesheet" href="../src/Custom_Tags.css" type="text/css">
@@ -60,6 +60,5 @@ exec("sudo shutdown");
 
 
 <fontsize90> Shutting Down.... </fontsize90> 
-<ul></ul>
-<fontsize40> In a Minute</fontsize40>
+
 </center>
