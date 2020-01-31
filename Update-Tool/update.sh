@@ -16,6 +16,3 @@ cd /var/www/html/
 cd Smith-Pad
 
 git pull 
-
-## Restart 
-sudo reboot
