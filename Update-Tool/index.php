@@ -24,7 +24,7 @@
 
 <div class="box"> 
     <div class="center">
-    <fontsize60><fontcolorWHITE> Software Update Tool.  </fontcolorWHITE> </fontsize60> <a href="../Power/reboot.php" class="button is-red button-no-animate-mode button small">Restart System  and Go back to Smith Pad</a> 
+    <fontsize60><fontcolorWHITE> Software Update Tool.   Please Wait....  </fontcolorWHITE> </fontsize60> 
 
     </div>
 </div>
