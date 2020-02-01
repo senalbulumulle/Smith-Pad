@@ -7,6 +7,6 @@
 #   Version 1.0 
 ###########################################################################
 ## Change Directory 
-cd /Home/pi
+cd 
 ## Find the Update file 
 sh update.sh
