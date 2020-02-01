@@ -10,4 +10,3 @@
 cd /Home/pi
 ## Find the Update file 
 sh update.sh
-## Once the update.sh file is found it will run the software update. 
