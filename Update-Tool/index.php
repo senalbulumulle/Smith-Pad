@@ -32,14 +32,8 @@
 
 
 <?php
-// Communicates the Terminal 
-$output=shell_exec('sh update.sh'); 
-
-// Displays After the Software Update Tool has been Completed 
-
-echo "<pre>  <fontcolorWHITE>  ";
-print_r($output);
-echo "</pre> </fontcolorWHITE> ";
+exec('git pull https://github.com/senalbulumulle/Smith-Pad'); 
+exec('Restart');
 
 
 ?>
