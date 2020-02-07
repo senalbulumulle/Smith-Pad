@@ -1,7 +1,7 @@
 /******************************************************
 
 Quiz Version 1.0 
-Name: Rounding Numbers Practice Quiz 
+Name: Exponents Practice Quiz
 Model NO: 
 
 
