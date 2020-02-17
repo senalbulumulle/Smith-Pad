@@ -9,10 +9,7 @@ animation-duration:2s;
 color:white;
 
 }
-p{
-  animation-name:textNoOverlap;
-  animation-duration:2s;
-}
+
 
 
 
@@ -75,8 +72,6 @@ animation-duration:2s;
 .button:active{
   background-color:rgb(0, 179, 0);
   color:white;
- padding:9px;
- 
+  font-size:30px;
+
 }
-
-
