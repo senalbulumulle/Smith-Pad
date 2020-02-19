@@ -31,7 +31,8 @@ input{
     color:white;
 }
 .button-no-animate-mode:active{
-    font-size:100px;
+   background-color:yellow; 
+   color:black;
 }
 
 /* Media Queries */ 
