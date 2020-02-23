@@ -357,25 +357,7 @@ animation: Sunset-Theme 17s ease infinite;
   .button.small{
       padding:4px 2px;
       
-  }
-
-  /* Rotates the button on Default Button Subsitutes */
-
-  .button.semi-rotate{
-      /* Leave it blank */
-  }
-  .button.semi-rotate-red{
-      background-color:red;
-  }
-  .button.rotate-360-deg{
-      /* Leave it blank*/
-  }
-  .button.rotate-minus-360-deg{
-
-  }
-
- 
-  
+  }  
   button:hover{
       background-color:rgb(1, 179, 1);
       color:black;
@@ -383,40 +365,6 @@ animation: Sunset-Theme 17s ease infinite;
 
 
   }
-  button.semi-rotate:active{
-      transition-duration:0.4s;
-      background-color:gray;
-      color:white;
-      font-size:20px;
-      transform:rotate(12deg);
-      padding:42px 52px;
-
-  }
-  button.semi-rotate-red:active{
-       transition-duration:0.4s;
-       background-color:red;
-       color:white;
-       font-size:20px;
-       transform:rotate(12deg);
-       padding:42px 52px;
-  }
-  button.rotate-right-360-deg:active{
-      transition-duration:0.4s;
-      background-color:gray;
-      color:white;
-      transform:rotate(360deg);
-      font-size:20px;
-      padding:42px 52px;
-
-  }
-button.rotate-left-360-deg:active{
-  transition-duration:0.4s;
-  background-color:gray;
-  color:white;
-   font-size:20px;
-  transform:rotate(-360deg);
-  padding:42px 52px;
-}
 
 
 /* Table */
