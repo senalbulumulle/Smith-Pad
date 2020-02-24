@@ -297,6 +297,16 @@ animation: Sunset-Theme 17s ease infinite;
     text-decoration: none;
     color: white;
 }
+.button-no-animate-small:hover{
+    background-color:green;
+    color:white;
+    transition-duration:0.2s;
+}
+.button-no-animate-small:active{
+    background-color:orange;
+    color:black;
+    transition-duration:0.2s
+}
   .button-no-animate-mode {
       background-color: black;
       padding: 16px 43px;
@@ -316,20 +326,71 @@ animation: Sunset-Theme 17s ease infinite;
     background-color:red;
     color:white;
 }
+.button-no-animate-mode.is-red:hover{
+    background-color:green;
+    color:white;
+    transition-duration:0.2s;
+
+}
+.button-no-animate-mode.is-red:active{
+    background-color:orange;
+    color:black;
+    transition-duration:0.2s;
+
+}
 .button-no-animate-mode.is-yellow {
     background-color:yellow;
     color:white;
 }
+.button-no-animate-mode.is-yellow:hover{
+    background-color:green;
+    color:white;
+    transition-duration:0.2s;
+
+}
+.button-no-animate-mode.is-yellow:active{
+    background-color:green;
+    color:white;
+    transition-duration:0.2s;
+
+}
+
 .button-no-animate-mode.is-orange {
     background-color:rgb(230, 84, 0);
     color:white;
 }
+.button-no-animate-mode.is-orange:hover{
+    background-color:green;
+    color:white;
+    transition-duration:0.2s;
+
+}
+.button-no-animate-mode.is-orange:active{
+    background-color:orange;
+    color:white;
+    transition-duration:0.2s;
+
+   
+}
+
 .button-no-animate-mode.is-pink {
     background-color:rgb(187, 0, 146);
     color:white;
+    transition-duration:0.2s;
+
 }
+.button-no-animate-mode.is-pink:hover{
+    background-color:green;
+    color:white;
+    transition-duration:0.2s;
 
+}
+.button-no-aniamte-mode.is-pink:active{
+    background-color:orange;
+    color:black;
+    transition-duration:0.2s;
 
+}
 
 
 /* Default Animated Button Substitutes */
@@ -338,26 +399,81 @@ animation: Sunset-Theme 17s ease infinite;
       background-color:red;
       color:white;
   }
+  .button.is-red:hover{
+      background-color:green;
+      color:white;
+      transition-duration:0.2s;
+
+  }
+  .button.is-red:hover{
+      background-color:orange;
+      color:black;
+      transition-duration:0.2s;
+
+      
+  }
   .button.is-yellow{
     background-color:yellow;
     color:white;
+  }
+  .button.yellow:hover{
+      background-color:green;
+      color:white;
+      transition-duration:0.2s;
+
+
+  }
+  .button.yellow:active{
+      background-color:orange;
+      color:black;
+      transition-duration:0.2s;
+
   }
   .button.is-orange{
     background-color:rgb(230, 84, 0);
     color:white;
   }
+  .button.is-orange:hover{
+      background-color:green;
+      color:white;
+      transition-duration:0.2s;
+
+  }
+  .button.is-orange:active{
+      background-color: orange;
+      color:black;
+      transition-duration:0.2s;
+
+  }
   .button.is-pink{
       background-color:rgb(187, 0, 146);
       color:white;
   }
-  .button.is-white{
-      background-color:white;
+  .button.is-pink:hover{
+      background-color:green;
+      transition-duration:0.2s;
+  }
+  .button.is-pink:active{
+      background-color:orange;
       color:black;
+      transition-duration:0.2s;
+
   }
   .button.small{
       padding:4px 2px;
       
   }  
+  .button.small:hover{
+      background-color:green;
+      color:white;
+      transition-duration:0.2s;
+  }
+  .button.small:active{
+      background-color:orange;
+      color:black;
+      transition-duration:0.2s;
+      font-size:40px;
+  }
   button:hover{
       background-color:rgb(1, 179, 1);
       color:black;
@@ -365,8 +481,6 @@ animation: Sunset-Theme 17s ease infinite;
 
 
   }
-
-
 /* Table */
   table,
   td {

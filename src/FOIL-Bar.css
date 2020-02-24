@@ -4,7 +4,7 @@
  | |_  | | | || | | |        |  _ \  / _` || '__|
  |  _| | |_| || | | |___     | |_) || (_| || |   
  |_|    \___/|___||_____|    |____/  \__,_||_| .css
-                                            Build: Smith Pad   
+                                            Build: Smith Pad  Home-Screen
 
 */
 
@@ -51,7 +51,6 @@
   color: red;
   transition-duration: 0.2s;
 }
-
 .settingsclose{
   position: absolute;
   top: 20px;
@@ -149,7 +148,7 @@
 
 
 
-/* Dependendies*/
+/* Button Features. */
 
 .button{
   background-color:black;
@@ -162,16 +161,16 @@
   margin-right: 15px;
   
   }
-  .button:active:hover{
+  .button:hover{
     background-color:rgb(9, 172, 0);
     color:white;
     font-size:16px;
     transition-duration:0.2s;
-  
-    /* BUG
-   transition-duration:0.1s;
-   */
-  
+  }
+  .button:active{
+    background-color:orange;
+    color:white;
+    transition-duration:0.2s;
   }
   
   
