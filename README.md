@@ -1,4 +1,4 @@
-# Smith-Pad
+<img src="Smith-Pad-Logo.png"></img>
 <p>Smith Pad is a FOÏL OS based Web Software Program that can run offline and online Educational Programs/Apps  designed specifically for ESE/ Special Education Programs that can be displayed on a Classroom Touch-Screen Display.  </p> 
 
 <h2> Purpose of  Smith Pad: </h2>
