@@ -9,7 +9,7 @@
 */
 
 @import './background.css';
-@import './UI.css';
+
 
 /* A One-Page Interface using popups similar to a desktop user interface */
 /* FOIL BAR is mostly used on Smith Pad */
@@ -149,6 +149,29 @@
 
 
 /* Button Features. */
+
+.button{
+  background-color:black;
+  padding:10px 32px;
+  color:white;
+  border:none;
+  font-size:16px;
+  text-decoration: none;
+  
+  margin-right: 15px;
+  
+  }
+  .button:hover{
+    background-color:rgb(9, 172, 0);
+    color:white;
+    font-size:16px;
+    transition-duration:0.2s;
+  }
+  .button:active{
+    background-color:orange;
+    color:white;
+    transition-duration:0.2s;
+  }
   
   
   /* Button colors */
