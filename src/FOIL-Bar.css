@@ -66,11 +66,8 @@
   overflow: auto;
 }
 
-
-
-
-.lights {
-  margin: 20px auto;
+.applications {
+  margin: 2px auto;
   padding: 20px;
   background-color:white;
   background-position:right; 
@@ -79,10 +76,9 @@
   width: auto;
   position: center;
   color: black;
-  
 }
 
-.lights .close {
+.applications .close {
   position: absolute;
   top: 20px;
   right: 30px;
@@ -92,8 +88,7 @@
   color: red;
   transition-duration: 0.2s;
 }
-
-.lightsclose{
+.applicationsclose{
   position: absolute;
   top: 20px;
   right: 30px;
@@ -102,113 +97,8 @@
   text-decoration: none;
   color: red;
 }
-
-
-.Workstations {
-  margin: 20px auto;
-  padding: 20px;
-  background-color:white;
-  background-position:right; 
-  background-repeat: no-repeat, repeat;
-  border-radius: 5px;
-  width: auto;
-  position: center;
-  color: black;
-  
-}
-
-.Workstations .close {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  font-size: 58px;
-  font-weight: 500;
-  text-decoration: none;
-  color: red;
-  transition-duration: 0.2s;
-}
-
-.Workstationsclose{
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  font-size: 58px;
-  font-weight: 500;
-  text-decoration: none;
-  color: red;
-}
-
-
-.settings .content {
+.a- .content {
   max-height: 30%;
   width: 30%;
   overflow: auto;
 }
-
-
-
-
-/* Button Features. */
-  
-  
-  /* Button colors */
-  .button.red{
-    background-color:rgba(255, 0, 0, 0.359);
-  }
-  
-  
-  .button.yellow{
-    background-color:rgb(255, 174, 0);
-  }
-  
-  
-  .button.orange{
-    background-color:rgb(255, 98, 0);
-    color:white;
-    
-  }
-  
-  
-  .button.white{
-    background-color:red;
-    color:white;
-  
-  }
-  
-  
-  .button.curve{
-      border-radius:100px;
-  
-  }
-  
-  
-  .button.small{
-      padding:7px 8px;
-      color:white;
-  }
-  
-  
-  
-  .button.small.curve{
-      border-radius:5px;
-      font-size:16px;
-      position:center;
-  }
-  .button.large.curve{
-    border-radius:5px;
-    font-size:30px;
-    position:center;
-  
-  }
-  
-  
-  
-  
-  .layout{
-  
-      color:white;
-      padding:10em 1em;
-      position:relative;
-      z-index:2;
-  
-  }
