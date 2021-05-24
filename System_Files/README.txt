@@ -7,6 +7,14 @@
 
 Smith-Pad/System_Files/README.txt
 
+// Linux / KDE Based App Launchers
+Smith-Pad/System_Files/system.app.launcher.external.local.app.name.chromium.php
+Smith-Pad/System_Files/system.app.launcher.external.local.app.name.chromium.sh
+Smith-Pad/System_Files/system.app.launcher.external.local.app.name.dolphin.file.manager.php
+Smith-Pad/System_Files/system.app.launcher.external.local.app.name.dolphin.file.manager.sh
+Smith-Pad/System_Files/system.app.launcher.external.local.app.name.konsole.terminal.php
+Smith-Pad/System_Files/system.app.launcher.external.local.app.name.konsole.terminal.sh
+
 // UI Spaces
 Smith-Pad/System_Files/system.global.space.1.php 
 Smith-Pad/System_Files/system.global.space.2.php
