@@ -11,6 +11,15 @@
 <div class="settings">
 <h1>Settings </h1>
 <a class="settingsclose" href="#">&times;</a>
+
+
+<h4> Power Options</h4>
+<?php include "./System_Files/system.global.space.1.php";?>
+<a href="#power" class="button color-is-red">&#x23FB; POWER OFF DEVICE </a>
+<a href="#power" class="button color-is-green">&#x23FE; SLEEP MODE</a>
+<a href="#power" class="button color-is-red">&#x23FC; RESTART</a>
+
+
 </div>
 </div>
 
