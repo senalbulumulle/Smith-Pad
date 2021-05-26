@@ -311,7 +311,10 @@ Button Color Subsitutes
   color: white;
 }
 
-/* Keyframes */
+/********************************
+Animations
+********************************/
+
 @keyframes layouts {
   from {
     padding: 30em 1em;
