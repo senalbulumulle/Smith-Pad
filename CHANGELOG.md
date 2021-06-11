@@ -1,5 +1,15 @@
 # Change Log
 
+**v.1.0.4.1.1.4 [Smith-Pad-OS-Interface] Release Notes**
+* Imported FOIL-UI.css v.1.0.1.1.2
+
+
+
+**v.1.0.4.1.1.3 [Smith-Pad-OS-Interface] Release Notes**
+* Removed the Math Operations Button from Home-Screen.
+
+
+
 
 **v.1.0.4.1.1.2 [Smith-Pad-OS-Interface] Release Notes**
 
