@@ -1,5 +1,9 @@
 # Change Log
 
+**v.1.0.5 [Smith-Pad-OS-Interface] Release Notes**
+* Activated KDE/Linux App Launchers in Smith-Pad-OS-Interface.
+
+
 **v.1.0.4.1.1.4 [Smith-Pad-OS-Interface] Release Notes**
 * Imported FOIL-UI.css v.1.0.1.1.2
 
