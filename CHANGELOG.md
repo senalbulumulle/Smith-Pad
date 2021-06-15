@@ -1,5 +1,11 @@
 # Change Log
 
+**v.1.0.5.1 [Smith-Pad-OS-Interface] Release Notes**
+* Added Wallpapers Directory for the Smith-Pad-OS-Interface
+* The Wallpapers are made by: 
+- <img src="https://avatars.githubusercontent.com/u/39766555?s=400&u=63bcaad499e6d2ecade5c2c982bcf97356821655&v=4" height="200px" width="200px"></img>
+
+
 **v.1.0.5 [Smith-Pad-OS-Interface] Release Notes**
 * Activated KDE/Linux App Launchers in Smith-Pad-OS-Interface.
 
