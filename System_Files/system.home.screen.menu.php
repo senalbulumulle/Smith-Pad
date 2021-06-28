@@ -31,8 +31,8 @@
 
 <!--################################## LINUX / KDE BASED APPLICATIONS  #############################-->
 <a href="./System_Files/system.app.launcher.external.local.app.name.chromium.php" class="button color-is-red">Chromium</a>
-<a href="./System_Files/system.app.launcher.external.local.app.name.konsole.terminal.php" class="button color-is-blue">Dolphin File Manager</a>
-<a href="./System_Files/system.app.launcher.external.local.app.name.dolphin.file.manager.php" class="button color-is-blue">Konsole Terminal</a>
+<a href="./System_Files/system.app.launcher.external.local.app.name.dolphin.file.manager.php" class="button color-is-blue">Dolphin File Manager</a>
+<a href="./System_Files/system.app.launcher.external.local.app.name.konsole.terminal.php" class="button color-is-blue">Konsole Terminal</a>
 <!--#########################################################################################-->
 
 

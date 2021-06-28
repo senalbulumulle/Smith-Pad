@@ -1,4 +1,6 @@
 # Change Log
+**v.1.0.5.2 [Smith-Pad-OS-Interface] Release Notes**
+* Fixed issue when opening KDE Applications through the Smith-Pad-OS Student Edition Home-Screen
 
 **v.1.0.5.1 [Smith-Pad-OS-Interface] Release Notes**
 * Added Wallpapers Directory for the Smith-Pad-OS-Interface
