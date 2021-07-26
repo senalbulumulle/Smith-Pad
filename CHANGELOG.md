@@ -1,4 +1,13 @@
 # Change Log
+**v.1.0.6 [Smith-Pad-OS-Interface] Release Notes**
+* Fixed issue when closing KDE Applications, it enters to a blank screen, in the 
+  Smith-Pad-OS-Interface. 
+
+* After user closes KDE/UNIX/Linux based Applications, the Smith-Pad-OS-Interface 
+  launcher will go back to the home-screen. 
+
+
+
 **v.1.0.5.2 [Smith-Pad-OS-Interface] Release Notes**
 * Fixed issue when opening KDE Applications through the Smith-Pad-OS Student Edition Home-Screen
 
