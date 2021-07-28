@@ -28,17 +28,30 @@
 <h1>Applications </h1>
 <a class="applicationsclose" href="#">&times;</a>
 
+<?php include "./System_Files/system.global.space.1.php";?>
 
-<!--################################## LINUX / KDE BASED APPLICATIONS  #############################-->
+<h4> Web Based Local Applications</h4>
+
+<!--################################## WEB BASED LOCAL APPLICATIONS   #############################-->
+<a href="#" class="button color-is-black">Clock Mode</a>
+<a href="#" class="button color-is-black">Calculator</a>
+<!--#########################################################################################-->
+
+
+<?php include "./System_Files/system.global.space.20.php";?>
+
+
+
+<!--################################## UNIX / KDE BASED APPLICATIONS  #############################-->
 <a href="./System_Files/system.app.launcher.external.local.app.name.chromium.php" class="button color-is-red">Chromium</a>
 <a href="./System_Files/system.app.launcher.external.local.app.name.dolphin.file.manager.php" class="button color-is-blue">Dolphin File Manager</a>
 <a href="./System_Files/system.app.launcher.external.local.app.name.konsole.terminal.php" class="button color-is-blue">Konsole Terminal</a>
 <!--#########################################################################################-->
 
 
-<?php include "./System_Files/system.global.space.5.php";?>
+<?php include "./System_Files/system.global.space.10.php";?>
 
-
+<h4> Web Links </h4>
 
 <!--################################## CUSTOM WEB LINK  #############################-->
 <a href="https://launch.ocps.net" href="#" class="button color-is-blue">OCPS Classlink LaunchPad</a>

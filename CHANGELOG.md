@@ -1,4 +1,9 @@
 # Change Log
+**v.1.0.7 [Smith-Pad-OS-Interface] Release Notes**
+* Updated the Applications Menu User Interface.
+
+
+
 **v.1.0.6 [Smith-Pad-OS-Interface] Release Notes**
 * Fixed issue when closing KDE Applications, it enters to a blank screen, in the 
   Smith-Pad-OS-Interface. 
