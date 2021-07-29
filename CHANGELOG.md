@@ -1,4 +1,9 @@
 # Change Log
+**v.1.0.9 [Smith-Pad-OS-Interface] Release Notes**
+* Imported Smith-Pad Web App: Calculator 
+
+
+
 **v.1.0.8 [Smith-Pad-OS-Interface] Release Notes**
 * Made the APPS directory that will contain web based applications. 
 
