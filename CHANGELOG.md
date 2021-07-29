@@ -1,4 +1,7 @@
 # Change Log
+**v.1.0.8 [Smith-Pad-OS-Interface] Release Notes**
+* Made the APPS directory that will contain web based applications. 
+
 **v.1.0.7 [Smith-Pad-OS-Interface] Release Notes**
 * Updated the Applications Menu User Interface.
 
