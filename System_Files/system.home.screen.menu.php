@@ -34,7 +34,7 @@
 
 <!--################################## WEB BASED LOCAL APPLICATIONS   #############################-->
 <a href="#" class="button color-is-black">Clock Mode</a>
-<a href="#" class="button color-is-black">Calculator</a>
+<a href="./APPS/Calculator" class="button color-is-black">Calculator</a>
 <a href="./APPS/About-Smith-Pad" class="button color-is-black">About Smith-Pad</a>
 <!--#########################################################################################-->
 
