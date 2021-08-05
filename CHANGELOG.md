@@ -1,4 +1,10 @@
 # Change Log
+**v.1.0.10 [Smith-Pad-OS-Interface] Release Notes**
+* Made a new app, About-Smith-Pad
+* The app is located in Smith-Pad-OS-Interface/APPS/About-Smith-Pad
+
+
+
 **v.1.0.9 [Smith-Pad-OS-Interface] Release Notes**
 * Imported Smith-Pad Web App: Calculator 
 
