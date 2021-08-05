@@ -1,4 +1,13 @@
 # Change Log
+**v.1.0.10.1.3 [Smith-Pad-OS-Interface] Release Notes**
+*  Fixed the issue when the Konsole terminal opens via Smith-Pad-OS-Interface
+
+* This System File is located in "Smith-Pad-OS-Interface/System_Files/system.app.launcher.external.local.app.name.konsole.terminal.php".
+
+
+
+
+
 **v.1.0.10.1.2 [Smith-Pad-OS-Interface] Release Notes**
 * Changed file name from calculator.html to index.php
 * The app is located in "Smith-Pad-OS-Interface/APPS/Calculator".
