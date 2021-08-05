@@ -1,4 +1,12 @@
 # Change Log
+**v.1.0.10.1.2 [Smith-Pad-OS-Interface] Release Notes**
+* Changed file name from calculator.html to index.php
+* The app is located in "Smith-Pad-OS-Interface/APPS/Calculator".
+
+
+
+
+
 **v.1.0.10.1 [Smith-Pad-OS-Interface] Release Notes**
 * Forgot to Activate the Calculator App in the Home Screen, oops. 
 * The app is located in "Smith-Pad-OS-Interface/APPS/Calculator"
