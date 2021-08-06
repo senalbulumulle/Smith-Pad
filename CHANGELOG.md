@@ -1,6 +1,17 @@
 # Change Log
+**v.1.0.10.1.4 [Smith-Pad-OS-Interface] Release Notes**
+*  Imported FOIL-UI.css v.2.0.1.1
+
+*  https://github.com/senalbulumulle/FOIL-UI-Framework-Library
+
+
+
+
+
+
+
 **v.1.0.10.1.3 [Smith-Pad-OS-Interface] Release Notes**
-*  Fixed the issue when the Konsole terminal opens via Smith-Pad-OS-Interface
+* Fixed the issue when the Konsole terminal opens via Smith-Pad-OS-Interface
 
 * This System File is located in "Smith-Pad-OS-Interface/System_Files/system.app.launcher.external.local.app.name.konsole.terminal.php".
 
