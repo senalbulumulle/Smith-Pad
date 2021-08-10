@@ -1,4 +1,13 @@
 # Change Log
+**v.1.0.11 [Smith-Pad-OS-Interface] Release Notes**
+*  Fixed an issue when porting the Calculator App from 
+   the Main Branch.
+
+
+
+
+
+
 **v.1.0.10.1.4 [Smith-Pad-OS-Interface] Release Notes**
 *  Imported FOIL-UI.css v.2.0.1.1
 
