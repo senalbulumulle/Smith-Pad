@@ -33,7 +33,7 @@
 <h4> Web Based Local Applications</h4>
 
 <!--################################## WEB BASED LOCAL APPLICATIONS   #############################-->
-<a href="#" class="button color-is-black">Clock Mode</a>
+<a href="./APPS/Clock-Mode/index.php" class="button color-is-black">Clock Mode</a>
 <a href="./APPS/Calculator/index.php" class="button color-is-black">Calculator</a>
 <a href="./APPS/About-Smith-Pad" class="button color-is-black">About Smith-Pad</a>
 <!--#########################################################################################-->

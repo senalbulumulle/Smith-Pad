@@ -1,4 +1,12 @@
 # Change Log
+**v.1.0.12 [Smith-Pad-OS-Interface] Release Notes**
+* Ported the Clock-Mode app from the Main Branch
+
+
+
+
+
+
 **v.1.0.11 [Smith-Pad-OS-Interface] Release Notes**
 *  Fixed an issue when porting the Calculator App from 
    the Main Branch.
