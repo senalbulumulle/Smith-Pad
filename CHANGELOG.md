@@ -1,4 +1,15 @@
 # Change Log
+**v.1.0.13 [Smith-Pad-OS-Interface] Release Notes**
+* Cleaned out some code in the Clock-Mode app 
+  that has been ported from the Main Branch. 
+
+
+
+
+
+
+
+
 **v.1.0.12 [Smith-Pad-OS-Interface] Release Notes**
 * Ported the Clock-Mode app from the Main Branch
 
