@@ -11,5 +11,5 @@
 <div class="indicator">
 
 <fontsize90>Subjects</fontsize90>
-<a href="../index.html" class="button small button is-red button-no-animate-mode">Back</a>
+<a href="../index.php" class="button small button is-red button-no-animate-mode">Back</a>
 </div>
