@@ -41,7 +41,7 @@
         
 
         <?php include 'src/avakasaya/space7.php'?>
-        <a href="#" class="button"onClick="Calculator=window.open( './APPS/calculator.html','Calculator', 'width=600,height=1000'); return false;">Calculator</a>
+        <a href="#" class="button"onClick="Calculator=window.open( './APPS/Calculator/index.php','Calculator', 'width=600,height=1000'); return false;">Calculator</a>
         
 
 
