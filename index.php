@@ -33,10 +33,10 @@
         <?php include 'src/avakasaya/space2.php'?>
    
         <a href="#settings" class="button">Settings</a>
-        <a href="schedule-display.html" class="button">Schedule Display</a>
-        <a href="Math-Operations.html" class="button">Math Operations</a>
-        <a href="./Subjects/Subjects.html" class="button">Subjects</a>
-        <a href="./APPS/clock.html" class="button">Clock Mode</a>
+        <a href="schedule-display.php" class="button">Schedule Display</a>
+        <a href="Math-Operations.php" class="button">Math Operations</a>
+        <a href="./Subjects/Subjects.php" class="button">Subjects</a>
+        <a href="./APPS/clock.php" class="button">Clock Mode</a>
 
         
 
