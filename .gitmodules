@@ -1,0 +1,3 @@
+[submodule "src/avakasaya"]
+	path = src/avakasaya
+	url = https://github.com/Smith-Pad/avakasaya
