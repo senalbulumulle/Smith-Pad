@@ -15,27 +15,10 @@
       
 
     </div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
-    <div class="space"></div>
+
+
+
+    <?php include 'src/avakasaya/space21.php'?>
     
 
     <div class="layout side-round">
@@ -46,21 +29,18 @@
         </fontsize70>
         <fontsize60>Menu</fontsize60>
 
-        <div class="space"></div>
-        <div class="space"></div>
+
+        <?php include 'src/avakasaya/space2.php'?>
    
         <a href="#settings" class="button">Settings</a>
         <a href="schedule-display.html" class="button">Schedule Display</a>
         <a href="Math-Operations.html" class="button">Math Operations</a>
         <a href="./Subjects/Subjects.html" class="button">Subjects</a>
         <a href="./APPS/clock.html" class="button">Clock Mode</a>
-        <div class="space"></div>
-        <div class="space"></div>
-        <div class="space"></div>
-        <div class="space"></div>
-        <div class="space"></div>
-        <div class="space"></div>
-        <div class="space"></div>
+
+        
+
+        <?php include 'src/avakasaya/space7.php'?>
         <a href="#" class="button"onClick="Calculator=window.open( './APPS/calculator.html','Calculator', 'width=600,height=1000'); return false;">Calculator</a>
         
 
@@ -84,10 +64,8 @@
                     <h4> Software Update </h4> 
 
                     <a href="./Update-Tool/index.php" class="button-no-animate-mode button curve button small button orange">Update Smith Pad</a>
-                    <div class="space"></div>
-                    <div class="space"></div>
-
-                    <div class="space"></div>
+                    
+                    <?php include 'src/avakasaya/space3.php'?>
                         </div>
     
                 </div>
