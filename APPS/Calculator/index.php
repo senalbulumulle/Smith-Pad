@@ -1,12 +1,12 @@
 <!-- Calculator.html-->
-<link rel="stylesheet" href="../src/Custom_Tags.css" type="text/css">
-<link rel="stylesheet" href="../src/position-text.css" type="text/css">
-<link rel="stylesheet" href="../src/UI.css" type="text/css">
-<link rel="stylesheet" href="../src/FOIL-Bar.css" type="text/css">
-<link rel="stylesheet" href="../src/layouts.css.css" type="text/css">
+<link rel="stylesheet" href="../../src/Custom_Tags.css" type="text/css">
+<link rel="stylesheet" href="../../src/position-text.css" type="text/css">
+<link rel="stylesheet" href="../../src/UI.css" type="text/css">
+<link rel="stylesheet" href="../../src/FOIL-Bar.css" type="text/css">
+<link rel="stylesheet" href="../../src/layouts.css.css" type="text/css">
 <title> Calculator </title>
 <!-- Custom Dependencies -->
-<link rel="stylesheet" href="./calculator.css" type="text/css">
+<link rel="stylesheet" href="calculator.css" type="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <div class="space"></div>
